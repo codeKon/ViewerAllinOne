@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="screen_background_holo_light">#fff3f3f3</color>
+    <color name="screen_background_holo_dark">#ff000000</color>
+    <color name="color_orange">#ee6041</color>
+    <color name="color_pink_light">#f5b6d3</color>
+    <color name="color_pink_dark">#ea3897</color>
+    <color name="color_yellow_dark">#f4912a</color>
+
+</resources>
